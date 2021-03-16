@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ### 🔥 Project
 
-- 🔰 [`博客`](https://github.com/tangdw/tangdw.github.io) 记录有的没的
+- 🔰 [`博客`](https://tangdw.github.io/blog/%E4%B9%A6%E7%AD%BE.html) 记录些有的没的
