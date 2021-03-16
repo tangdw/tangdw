@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tangdw&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
+### 👨‍🚒 About me
+
+- 🔭 go go go
+
+### 🔥 Project
+
+- 🔰 [`博客`](https://github.com/tangdw/tangdw.github.io) 记录有的没的
